@@ -1,2 +1,2 @@
-wificonf readme.md
+wificfg readme.md
 see readme.txt
